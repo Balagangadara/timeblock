@@ -1,14 +1,30 @@
-{
-    "2024-08-08": [
-        { "id": 1, "time": "10:00 AM", "booked": false },
-        { "id": 2, "time": "11:00 AM", "booked": false },
-        { "id": 3, "time": "1:00 PM", "booked": false }
-    ],
-    "2024-08-09": [
-        { "id": 4, "time": "9:00 AM", "booked": false },
-        { "id": 5, "time": "2:00 PM", "booked": false }
+{ "2024-08-02": [
+        { "id": 1, "time": "09:00 AM", "booked": false },
+        { "id": 2, "time": "09:15 AM", "booked": false },
+        { "id": 3, "time": "09:30 PM", "booked": true },
+     { "id": 3, "time": "09:45 PM", "booked": true },
+     { "id": 3, "time": "10:00 PM", "booked": false },
+     { "id": 3, "time": "10:15 PM", "booked": false },
+     { "id": 3, "time": "10:30 PM", "booked": false },
+     { "id": 3, "time": "10:45 PM", "booked": false },
+     { "id": 3, "time": "11:00 PM", "booked": false },
+     { "id": 3, "time": "11:15 PM", "booked": false },
+     { "id": 3, "time": "11:30 PM", "booked": false }
+     { "id": 3, "time": "11:45 PM", "booked": false }
+     { "id": 3, "time": "18:30 PM", "booked": false }
+     { "id": 3, "time": "18:45 PM", "booked": false }
+    { "id": 3, "time": "19:00 PM", "booked": false }
+      { "id": 3, "time": "19:15 PM", "booked": false }
+     { "id": 3, "time": "19:30 PM", "booked": false }
+     { "id": 3, "time": "19:45 PM", "booked": false }
+     { "id": 3, "time": "20:00 PM", "booked": false }
+     { "id": 3, "time": "20:15 PM", "booked": false }
+     { "id": 3, "time": "20:30 PM", "booked": false }
+     { "id": 3, "time": "20:45 PM", "booked": false }
+      { "id": 3, "time": "21:00 PM", "booked": false }
+     { "id": 3, "time": "21:15 PM", "booked": false }
+     { "id": 3, "time": "21:30 PM", "booked": false }
+     { "id": 3, "time": "21:45 PM", "booked": false }
+    
     ]
-}
-
-
 
