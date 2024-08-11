@@ -23,9 +23,9 @@
         { "id": 21, "time": "20:30", "booked": false },
         { "id": 22, "time": "20:45", "booked": false },
         { "id": 23, "time": "21:00", "booked": false },
-        { "id": 24, "time": "21:15", "booked": true },
-        { "id": 25, "time": "21:30", "booked": true },
-        { "id": 26, "time": "21:45", "booked": true }
+        { "id": 24, "time": "21:15", "booked": true},
+        { "id": 25, "time": "21:30", "booked": false},
+        { "id": 26, "time": "21:45", "booked": false }
     ],
     "2024-08-12": [
         { "id": 1, "time": "09:00", "booked": false },
