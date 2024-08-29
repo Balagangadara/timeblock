@@ -1,5 +1,5 @@
 {
-    "2024-08-29": [
+    "2024-08-31": [
         { "id": 1, "time": "09:00", "booked": true },
         { "id": 2, "time": "09:15", "booked": false },
         { "id": 3, "time": "09:30", "booked": false },
@@ -27,7 +27,7 @@
         { "id": 25, "time": "21:30", "booked": false},
         { "id": 26, "time": "21:45", "booked": false}
     ],
-    "2024-08-30": [
+    "2024-09-01": [
         { "id": 1, "time": "09:00", "booked": false },
         { "id": 2, "time": "09:15", "booked": false },
         { "id": 3, "time": "09:30", "booked": true },
