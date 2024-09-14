@@ -1,7 +1,6 @@
 {
-    "2024-09-15": {
-        "day": "Sunday",
-        "schedule": [
+    Sunday -"2024-09-15": {
+          [
             { "id": 1, "time": "07:00", "booked": false },
             { "id": 2, "time": "07:15", "booked": true },
             { "id": 3, "time": "07:30", "booked": false },
@@ -12,9 +11,9 @@
             { "id": 8, "time": "08:45", "booked": false }
            ]
     },
-    "2024-09-16": {
-        "day": "Monday",
-        "schedule": [
+       Monday-"2024-09-16": {
+     
+       [
             { "id": 1, "time": "07:00", "booked": false },
             { "id": 2, "time": "07:15", "booked": false },
             { "id": 3, "time": "07:30", "booked": false },
@@ -41,9 +40,9 @@
             { "id": 24, "time": "21:45", "booked": false }
         ]
     },
-    "2024-09-17": {
-        "day": "Tuesday",
-        "schedule": [
+   Tuesday- "2024-09-17": {
+         
+          [
            { "id": 1, "time": "07:00", "booked": false },
             { "id": 2, "time": "07:15", "booked": false },
             { "id": 3, "time": "07:30", "booked": false },
@@ -71,9 +70,8 @@
 
         ]
     },
-    "2024-09-18": {
-        "day": "Wednesday",
-        "schedule": [
+   Wednesday- "2024-09-18": {
+         [
            { "id": 1, "time": "07:00", "booked": false },
             { "id": 2, "time": "07:15", "booked": false },
             { "id": 3, "time": "07:30", "booked": false },
@@ -100,9 +98,9 @@
             { "id": 24, "time": "21:45", "booked": false }
    ]
     },
-    "2024-09-19": {
-        "day": "Thursday",
-        "schedule": [
+   Thursday-  "2024-09-19": {
+       
+       [
             { "id": 1, "time": "07:00", "booked": false },
             { "id": 2, "time": "07:15", "booked": false },
             { "id": 3, "time": "07:30", "booked": false },
@@ -129,9 +127,9 @@
             { "id": 24, "time": "21:45", "booked": false }
  ]
     },
-    "2024-09-20": {
-        "day": "Friday",
-        "schedule": [
+  Friday- "2024-09-20": {
+      
+        [
             { "id": 1, "time": "07:00", "booked": false },
             { "id": 2, "time": "07:15", "booked": false },
             { "id": 3, "time": "07:30", "booked": false },
@@ -158,9 +156,8 @@
             { "id": 24, "time": "21:45", "booked": false }
         ]
     },
-    "2024-09-21": {
-        "day": "Saturday",
-        "schedule": [
+   Saturday- "2024-09-21": {
+       [
            { "id": 1, "time": "07:00", "booked": false },
             { "id": 2, "time": "07:15", "booked": false },
             { "id": 3, "time": "07:30", "booked": false },
