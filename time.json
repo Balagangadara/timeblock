@@ -1,8 +1,8 @@
 {
    "2024-09-15": [
         { "id": 1, "time": "07:00", "booked": false },
-        { "id": 2, "time": "07:15", "booked": true },
-        { "id": 3, "time": "07:30", "booked": true },
+        { "id": 2, "time": "07:15", "booked": false },
+        { "id": 3, "time": "07:30", "booked": false },
         { "id": 4, "time": "07:45", "booked": false },
         { "id": 5, "time": "08:00", "booked": false },
         { "id": 6, "time": "08:15", "booked": false },
